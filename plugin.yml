@@ -1,0 +1,6 @@
+name: PowerScripts
+main: Main
+version: "1.0.0"
+api: "2.0.0"
+author: luxuryyy7
+description: "Execute PHP scripts from console using !setup, !list and !exe <script.php> (console-only)."
